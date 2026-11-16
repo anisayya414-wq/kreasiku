@@ -1,0 +1,6 @@
+{
+  "name": "Kreasiku",
+  "description": "Kreasiku — Your Ideas, Our Creation. Digital creative studio offering video editing, poster design, graphic design, social media design, custom creative projects, and digital illustration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
